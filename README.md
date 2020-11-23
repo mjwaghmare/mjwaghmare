@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I'm Manoj Waghmare👋
 
-<!--
-**mjwaghmare/mjwaghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+🔭 I’m currently working on basically a lot of things i.e Android , Flutter & Kotlin
+
+
+🌱 I’m currently learning more on Flutter & Kotlin.
+⚡ Fun fact: What We Know Is a Drop, What We Don't Know Is An ocean !
+
+Connect With ME
+ 👨‍💻 Instagram 📳
+
