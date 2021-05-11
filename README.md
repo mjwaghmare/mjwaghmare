@@ -10,7 +10,7 @@
 
 
 
-🔭 I’m currently working on basically a lot of things i.e Android , Flutter & Kotlin
+🔭 I’m currently working on basically Flutter (App Development)
 
 
 🌱 I’m currently learning more on Flutter.
