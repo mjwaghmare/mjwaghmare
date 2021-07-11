@@ -12,6 +12,7 @@
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mjwaghmare&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
 <br />
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwaghmare&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
