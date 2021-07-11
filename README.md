@@ -25,4 +25,5 @@
 </details>
 
 [instagram]: https://www.instagram.com/mr.shinchan_5/
+[linkedin]: https://www.linkedin.com/in/manoj-waghmare-90a883124/
 
