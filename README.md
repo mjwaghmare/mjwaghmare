@@ -21,8 +21,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="MjWaghmare's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mjwaghmare&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mjwaghmare&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
 </details>
 
 [instagram]: https://www.instagram.com/mr.shinchan_5/
