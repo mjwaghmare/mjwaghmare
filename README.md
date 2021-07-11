@@ -1,15 +1,6 @@
 ### Hi there I'm Manoj Waghmare👋
 
 
-
-
-
-
-
-
-
-
-
 🔭 I’m currently working on Flutter App Development.
 ⚡ Fun fact: What We Know Is a Drop, What We Don't Know Is An ocean !
 
@@ -17,6 +8,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mr.shinchan_5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwaghmare&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
