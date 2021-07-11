@@ -17,11 +17,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwaghmare&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<details>
-  
-</details>
-
 [instagram]: https://www.instagram.com/mr.shinchan_5/
 [linkedin]: https://www.linkedin.com/in/manoj-waghmare-90a883124/
 
