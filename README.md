@@ -17,6 +17,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mr.shinchan_5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Connect With ME
- 👨‍💻 Instagram 📳 - Mr.shinchan_5 for fun
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="MjWaghmare's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mjwaghmare&show_icons=true&hide_border=true" />
+
+</details>
 
