@@ -15,7 +15,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mjwaghmare&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
 <br />
 <br />
-### Languages and Tools:
+<summary>:zap: Languages and Tools</summary>
 <br />
 <tr>
   <td><code><img height="40" src="https://user-images.githubusercontent.com/14976267/135406822-8395d950-d18d-4a09-b6b4-996c47169c29.png"></code></td>
