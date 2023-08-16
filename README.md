@@ -1,34 +1,21 @@
-### Hi there I'm Manoj Waghmare👋
+<h1 align="center">Hi 👋, I'm Manoj Waghmare</h1>
+<h3 align="center">A passionate flutter developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjwaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="mjwaghmare" /> </p>
 
-🔭 I’m currently working on Flutter App Development.
-⚡ Fun fact: What We Know Is a Drop, What We Don't Know Is An ocean !
+- 🌱 I’m currently learning **golang**
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mr.shinchan_5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-Subscribe to my Youtube Channel💙
-https://www.youtube.com/@MWStudioz
+- 👨‍💻 All of my projects are available at [https://github.com/mjwaghmare?tab=repositories](https://github.com/mjwaghmare?tab=repositories)
 
-<br />
-<br />
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mjwaghmare&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
-<br />
-<br />
-<summary>:zap: Languages and Tools</summary>
-<br />
-<tr>
-  <td><code><img height="40" src="https://user-images.githubusercontent.com/14976267/135406822-8395d950-d18d-4a09-b6b4-996c47169c29.png"></code></td>
-  <td><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code></td>
-  <td><code><img height="40" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code></td>
-  <td><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></td>
+- 💬 Ask me about **flutter**
 
-</tr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://youtube.com/@mwstudiooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mwstudiooo" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
-
-[instagram]: https://www.instagram.com/mr.shinchan_5/
-[linkedin]: https://www.linkedin.com/in/manoj-waghmare-90a883124/
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjwaghmare&show_icons=true&locale=en&layout=compact" alt="mjwaghmare" /></p>
 
